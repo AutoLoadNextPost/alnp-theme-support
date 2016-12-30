@@ -6,14 +6,14 @@ Next you want to activate the plugin "Auto Load Next Post" and go to "Settings >
 
 ## Theme selectors
 
-### Content Container
-```#content```
+#### Content Container
+Enter `#content`
 
-### Post Title
-```h1.entry-title```
+#### Post Title
+Enter `h1.entry-title`
 
-### Post Navigation
-```#nav-below```
+#### Post Navigation
+Enter `#nav-below`
 
-### Comments
-```div#comments```
+#### Comments
+Enter `div#comments`
