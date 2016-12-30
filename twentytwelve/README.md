@@ -1,6 +1,6 @@
 # Twenty Twelve
 
-This theme only requires a minor modification. To start, open the 'functions.php' file in the Twenty Twelve theme directory.
+This theme only requires a minor modification. To start, open the `functions.php` file in the Twenty Twelve theme directory.
 
 Next you want to copy and paste the code from the `functions.php` file above into the `functions.php` file of Twenty Twelve and save.
 
